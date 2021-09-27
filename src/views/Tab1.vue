@@ -2,6 +2,10 @@
   <ion-page>
     <ion-header>
       <ion-toolbar>
+        
+        <ion-buttons slot="start">
+          <ion-menu-button color="primary"></ion-menu-button>
+        </ion-buttons>
         <ion-title>Tab 1</ion-title>
       </ion-toolbar>
     </ion-header>
